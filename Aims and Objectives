@@ -1,0 +1,11 @@
+\subsection{Aim and Objective}
+\subsubsection{General Objective }{The major goal is to provide algorithms that process concurrently for finding strongly connected components \cite{ref1} with less time consumption and this can be done by parallelizing the algorithm}
+\subsubsection{Specific Objectives}
+\begin{itemize}
+
+\item	To find the strongly connected components (SCCs) of a graph (the maximal subsets S of the graph’s nodes such that for any pair of nodes there is a path from one node to another).
+
+\item To find which nodes are part of a cycle in the graph (such that there is a non-empty path from the node to itself).
+
+\item  To find which nodes are part of a “lasso” (such that there is a path from the node to a node on a cycle).
+\end{itemize}
